@@ -1,1 +1,1 @@
-# turunan-oarsial-produksi-app
+# turunan-parsial-produksi-app
